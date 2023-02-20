@@ -1,0 +1,33 @@
+ h1 {
+    color:brown;
+    text-align: center;
+    font-size: 700%;
+
+  }
+.increment{
+    color: black;
+    text-align: center;
+    width: 500px;  
+    height: 100px;   
+    background-color: brown;  
+}
+.decrement{
+    color: black;
+    text-align: center;
+    width: 500px;  
+    height: 100px; 
+    background-color: brown;      
+}
+.reset{
+    color: black;
+    text-align: center;
+    width: 500px;  
+    height: 100px;
+    background-color: brown;       
+}
+body {
+  background-image: url('https://media.istockphoto.com/id/1276462339/de/vektor/damast-nahtlose-musterelement-vektor-klassische-luxus-altmodische-damast-ornament-k%C3%B6nigliche.jpg?s=612x612&w=0&k=20&c=MZX8RHLLImUOOlRTaBXooOJGZ-b8fm5VJ4tPC9gPM0A=');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
